@@ -1,0 +1,18 @@
+# pack-refs with: peeled fully-peeled sorted 
+a5ef5578ad514355048e6ec297f32ee65aa348ee refs/remotes/origin/dev
+68e36b899b7f3ea3b5f11851a0a1b24066ff2293 refs/remotes/origin/feature/AI-19
+c8798c8d0ce2fca0b67b2625719a1b98edfe71dd refs/remotes/origin/feature/IA-11
+0ac5146d2558dae8767d121903b67d6c0f19e7f1 refs/remotes/origin/feature/IA-43
+021736f3ae9eaf8d60776969f40a967b3f393f6a refs/remotes/origin/feature/IA-44
+742f9d28f01ffb7fd8d46550c70cd59cda63e139 refs/remotes/origin/feature/IA-79_migration_in_stage
+d88a92a68461c9c4d1c0d5a903793bce9bf95556 refs/remotes/origin/feature/IA-79_v3
+1d81e39239316819afc7ba3eaafe9fc9d78282ba refs/remotes/origin/feature/IA-79_v3+IA-92_v1
+9729cb1953e1d1efd3b1efad65d4cab32b8c3fe9 refs/remotes/origin/feature/IA-79_v4
+56d6df2c08d825c367aa88b4159f263dc88dba38 refs/remotes/origin/feature/IA-81_favorite_merge
+922c201d8cf89d9898ce6ff43d7d55d0d49ca999 refs/remotes/origin/feature/IA-86
+3cddc0bb747d1081ca6d01f23e1aaf6423e33470 refs/remotes/origin/feature/IA-87_merge_dev
+b63069c87137a11dae0b994e991fe64efe141b80 refs/remotes/origin/feature/IA-88_v2
+32698f8aa3c86a2ae835eaec5d3aa830497ad0b9 refs/remotes/origin/feature/IA-92
+d17473fa8c1f53303dac0e04b6c6364330d20988 refs/remotes/origin/feature/IA-92_v1
+5d2c9af88ced02df8652ce6ac7b3fa0c708dd01b refs/remotes/origin/feature/IA-95
+f64ef8bf74660d0981ab40f991753ffebab88d3d refs/remotes/origin/stage

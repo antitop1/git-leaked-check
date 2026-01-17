@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 a5ef5578ad514355048e6ec297f32ee65aa348ee root <root@dw-hosting.(none)> 1743685822 +0000	clone: from https://gitlab-new.icontextdev.ru/int/external/alltime-dw.git
+a5ef5578ad514355048e6ec297f32ee65aa348ee f64ef8bf74660d0981ab40f991753ffebab88d3d root <root@dw-hosting.(none)> 1743685832 +0000	checkout: moving from dev to origin/stage
+f64ef8bf74660d0981ab40f991753ffebab88d3d f64ef8bf74660d0981ab40f991753ffebab88d3d root <root@dw-hosting.(none)> 1743685838 +0000	checkout: moving from f64ef8bf74660d0981ab40f991753ffebab88d3d to stage
+f64ef8bf74660d0981ab40f991753ffebab88d3d f64ef8bf74660d0981ab40f991753ffebab88d3d root <root@dw-hosting.(none)> 1743708118 +0000	checkout: moving from stage to stage_test
+f64ef8bf74660d0981ab40f991753ffebab88d3d f64ef8bf74660d0981ab40f991753ffebab88d3d root <root@dw-hosting.(none)> 1743709314 +0000	checkout: moving from stage_test to stage
+f64ef8bf74660d0981ab40f991753ffebab88d3d 67d1424c9cee23f6cb119e0e7cb707d38ef6e746 root <root@alldigit.ru> 1744117941 +0000	pull origin stage: Fast-forward
+67d1424c9cee23f6cb119e0e7cb707d38ef6e746 b9a60bef280f7197f4083f1b7272e26c4d792f05 root <root@alldigit.ru> 1744621193 +0000	pull origin stage: Fast-forward
+b9a60bef280f7197f4083f1b7272e26c4d792f05 b4451036b81aada149458275847ed327285ed0e7 root <root@alldigit.ru> 1744634252 +0000	pull origin stage: Fast-forward
+b4451036b81aada149458275847ed327285ed0e7 b4451036b81aada149458275847ed327285ed0e7 root <root@alldigit.ru> 1744753209 +0000	checkout: moving from stage to test_cookie
+b4451036b81aada149458275847ed327285ed0e7 b4451036b81aada149458275847ed327285ed0e7 git stash <git@stash> 1744754951 +0000	reset: moving to HEAD
+b4451036b81aada149458275847ed327285ed0e7 b4451036b81aada149458275847ed327285ed0e7 root <root@alldigit.ru> 1744754980 +0000	checkout: moving from test_cookie to stage
+b4451036b81aada149458275847ed327285ed0e7 6a5a4e144a0c91dd7d6c89c7e7dd28f10c2bc4ed root <root@alldigit.ru> 1744798712 +0000	pull origin stage: Fast-forward
+6a5a4e144a0c91dd7d6c89c7e7dd28f10c2bc4ed 0aa4f5b50af05396838643ca284f406a94dac1c8 root <root@alldigit.ru> 1745573541 +0000	pull origin stage: Fast-forward
+0aa4f5b50af05396838643ca284f406a94dac1c8 59a6c3e9a111b7768bfce1a2734cecd4fbd3ceb9 root <root@alldigit.ru> 1745844577 +0000	pull origin stage: Fast-forward
+59a6c3e9a111b7768bfce1a2734cecd4fbd3ceb9 06254e5575fc049919d7bea1517f8c0a777b72ef root <root@alldigit.ru> 1746526725 +0300	pull origin stage: Fast-forward
+06254e5575fc049919d7bea1517f8c0a777b72ef 57a2547fbdaac9891a1e5ddf661f1e0d7d0c5f7c root <root@alldigit.ru> 1750428285 +0300	pull origin stage: Fast-forward
+57a2547fbdaac9891a1e5ddf661f1e0d7d0c5f7c cdaa5cd3254a2093dc55d21c545f8050f6c96444 root <root@alldigit.ru> 1750839738 +0300	pull origin stage: Fast-forward
+cdaa5cd3254a2093dc55d21c545f8050f6c96444 acaebb1229b39b52f52ffa983b795e3766dc5c52 root <root@alldigit.ru> 1753687631 +0300	pull neworigin stage: Fast-forward
+acaebb1229b39b52f52ffa983b795e3766dc5c52 f0fa92c691a8877fcf453a8af181cef51416ad1f root <root@alldigit.ru> 1753704772 +0300	pull neworigin stage: Fast-forward
